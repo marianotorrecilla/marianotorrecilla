@@ -5,6 +5,6 @@
 - Currently I have my job in a dependency relationship and I also do freelance projects after hours.
 
 Here are some of the freelance projects I have done:
-- Estudio de agrimensura y topografía [https://agrimensortorrecilla.com.ar/]
-- La Rossa Pizza [https://larossapizza.com/]
+- [Estudio de agrimensura y topografía](https://agrimensortorrecilla.com.ar/)
+- [La Rossa Pizza](https://larossapizza.com/)
 
